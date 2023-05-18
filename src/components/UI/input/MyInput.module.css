@@ -1,0 +1,8 @@
+.uiInput {
+    border: 1px solid teal;
+    color: teal;
+    padding: 5px 15px;
+    width: 100%;
+    outline: none;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,30 @@
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+.App {
+    height: 100%;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #131415;
+    height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    max-width: 1130px;
+}
